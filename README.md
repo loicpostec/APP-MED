@@ -4,6 +4,8 @@ Le but de ce test est de comparé ReactJS et VueJS à travers un exemple simple,
 Axios est utilisé pour les requêtes HTTP.
 Reactstrap et Boostrapvue son utilisés pour les interfaces. 
 
+Tutoriel complet https://pasteapp.com/p/sVmc1HFbUsl/s/cXneF2lhaka?view=3i0cQlYZwTC
+
 ### Guide d'installation
 
 #### 1 – Télécharger le repo
