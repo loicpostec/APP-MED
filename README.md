@@ -30,7 +30,7 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 ### Structure des applications
 
 #### React
-![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/REACTJS.jpg)
+![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/REACTJS.pdf)
 
 #### Vue
 ![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/VUEJS.jpg)
