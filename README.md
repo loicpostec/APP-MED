@@ -6,28 +6,31 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 
 ### Guide d'installation
 
-#### Télécharger le repo
+#### 1 – Télécharger le repo
 
-#### Placer le dossier APP-MED dans htdocs de WAMP / MAMP 
+#### 1 – Placer le dossier APP-MED dans htdocs de WAMP / MAMP 
 
-#### Créer la base de données MYSQL grâce au fichier DB.SQL
+#### 3 – Créer la base de données MYSQL grâce au fichier DB.SQL
 
 ![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/MYSQL.png)
 
-#### Lancer le serveur Apache dans le dossier REACTJS ou VUEJS
+#### 4 – Lancer le serveur Apache dans le dossier REACTJS ou VUEJS
 
 ![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/MAMP.png)
 
-#### Lancer le serveur node 
+#### 5 – Lancer le serveur node 
     
     cd REACTJS ou cd VUEJS
     
     npm start
     
-#### Ouvrir localhost 
+#### 6 – Ouvrir localhost 
 
    
 ### Structure des applications
 
+#### React
 ![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/REACTJS.jpg)
+
+#### Vue
 ![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/VUEJS.jpg)
