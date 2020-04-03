@@ -1,6 +1,6 @@
 <div class="container">
 <h2 id="title">Mon profil<h2>
-<h6 id="description">VueJS+VueJS-Bootstrap</h6>
+<h6 id="description">VueJS+BootstrapVue</h6>
 <div id="app">
   <user-form>
 </div>
