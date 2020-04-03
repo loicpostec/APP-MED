@@ -4,18 +4,22 @@ Le but de ce test est de comparé ReactJS et VueJS à travers un exemple simple,
 Axios est utilisé pour les requêtes HTTP.
 Reactstrap et Boostrapvue son utilisés pour les interfaces. 
 
-## Guide d'installation
+### Guide d'installation
 
-### Télécharger le repo
+#### Télécharger le repo
 
-### Placer le dossier APP-MED dans htdocs de WAMP / MAMP 
+#### Placer le dossier APP-MED dans htdocs de WAMP / MAMP 
 
-### Créer la base de données MYSQL grâce au fichier DB.SQL
+#### Créer la base de données MYSQL grâce au fichier DB.SQL
 
-### Lancer le serveur node 
+#### Lancer le serveur Apache dans le dossier REACTJS ou VUEJS
+
+#### Lancer le serveur node 
     
-    test
+    cd REACTJS ou cd VUEJS
     
+    npm start
+    
+#### Ouvrir localhost 
 
-
-### Ouvrir localhost 
+    
