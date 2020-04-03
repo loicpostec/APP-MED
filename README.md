@@ -12,11 +12,11 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 
 #### Créer la base de données MYSQL grâce au fichier DB.SQL
 
-![](https://github.com/loicpostec/APP-MED/blob/master/MYSQL.png)
+![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/MYSQL.png)
 
 #### Lancer le serveur Apache dans le dossier REACTJS ou VUEJS
 
-![](https://github.com/loicpostec/APP-MED/blob/master/MAMP.png)
+![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/MAMP.png)
 
 #### Lancer le serveur node 
     
@@ -27,3 +27,7 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 #### Ouvrir localhost 
 
    
+### Structure des applications
+
+![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/REACTJS.png)
+![](https://github.com/loicpostec/APP-MED/blob/master/readme-img/VUEJS.png)
