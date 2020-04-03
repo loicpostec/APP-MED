@@ -12,7 +12,7 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 
 #### Créer la base de données MYSQL grâce au fichier DB.SQL
 
-![](https://i.ibb.co/x5tjjFY/Capture-d-e-cran-2020-04-03-a-15-33-05.png
+![](https://i.ibb.co/x5tjjFY/Capture-d-e-cran-2020-04-03-a-15-33-05.png)
 
 #### Lancer le serveur Apache dans le dossier REACTJS ou VUEJS
 
