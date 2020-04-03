@@ -1,0 +1,58 @@
+  <b-container class="user-form">
+    <b-overlay :show="overlayShow" rounded="sm">
+      <b-form id="user-form" @submit.prevent="onSubmit">
+        <!-- USER PERSONNAL INFORMATIONS -->
+        <b-form-group id="user-infoperso">
+          <!-- FIRSTNAME -->
+          <b-form-group id="user-firstname" label="Prénom" label-for="user-firstname">
+            <b-form-input id="user-firstname" type="text" required v-bind:value="user.FIRSTNAME"
+              v-model="user.FIRSTNAME"></b-form-input>
+            <b-form-invalid-feedback :state="validation">
+              Votre prénom doit être entre 3 et 15 caractères de long.
+            </b-form-invalid-feedback>
+            <b-form-valid-feedback :state="validation">
+            </b-form-valid-feedback>
+          </b-form-group>
+          <!-- LASTNAME -->
+          <b-form-group id="user-lastname" label="Nom" label-for="user-lastname">
+            <b-form-input id="user-lastname" type="text" required v-bind:value="user.LASTNAME" v-model="user.LASTNAME">
+            </b-form-input>
+          </b-form-group>
+
+        </b-form-group>
+        <!-- USER COORDINATES -->
+        <b-form-group id="user-coordinates">
+
+          <!-- EMAIL -->
+          <b-form-group id="user-email" label="Adresse e-mail" label-for="user-email"
+            description="Nous ne partegerons pas votre email.">
+            <b-form-input id="user-email" type="email" required v-bind:value="user.EMAIL" v-model="user.EMAIL">
+            </b-form-input>
+          </b-form-group>
+          <!-- PHONE -->
+          <b-form-group id="user-phone" label="Numéro de téléphone" label-for="user-phone">
+            <b-form-input id="user-phone" type="text" required v-bind:value="user.MOBILE_PHONE"
+              v-model="user.MOBILE_PHONE"></b-form-input>
+          </b-form-group>
+          <!-- ADDRESS -->
+          <b-form-group id="user-address" label="Adresse" label-for="user-address">
+            <b-form-input id="user-address" type="text" required v-bind:value="user.ADDRESS" v-model="user.ADDRESS">
+            </b-form-input>
+          </b-form-group>
+          <!-- ZIP -->
+          <b-form-group id="user-zip" label="Code postal" label-for="user-zip">
+            <b-form-input id="user-zip" type="text" required v-bind:value="user.POSTAL_CODE" v-model="user.POSTAL_CODE">
+            </b-form-input>
+          </b-form-group>
+          <!-- CITY -->
+          <b-form-group id="user-city" label="Ville" label-for="user-city">
+            <b-form-input id="user-city" type="text" required v-bind:value="user.CITY" v-model="user.CITY">
+            </b-form-input>
+          </b-form-group>
+
+        </b-form-group>
+        <b-button type="submit" variant="primary">Sauvegarder</b-button>
+      </b-form>
+    </b-overlay>
+</b-container>
+
