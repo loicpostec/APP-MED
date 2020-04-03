@@ -13,5 +13,9 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 ### Créer la base de données MYSQL grâce au fichier DB.SQL
 
 ### Lancer le serveur node 
+    
+    test
+    
+
 
 ### Ouvrir localhost 
