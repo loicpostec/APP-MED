@@ -10,7 +10,9 @@ Reactstrap et Boostrapvue son utilisés pour les interfaces.
 
 #### 1 – Télécharger le repo
 
-#### 1 – Placer le dossier APP-MED dans htdocs de WAMP / MAMP 
+
+#### 2 – Placer le dossier APP-MED dans htdocs de WAMP / MAMP 
+
 
 #### 3 – Créer la base de données MYSQL grâce au fichier DB.SQL
 
