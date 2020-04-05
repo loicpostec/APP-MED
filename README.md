@@ -1,6 +1,6 @@
 # APP-MED
 
-Le but de ce test est de comparé ReactJS et VueJS à travers un exemple simple, une page de profil.
+Le but de ce test est de comparer ReactJS et VueJS à travers un exemple simple, une page de profil utilisateur.
 Axios est utilisé pour les requêtes HTTP.
 Reactstrap et Boostrapvue son utilisés pour les interfaces. 
 
